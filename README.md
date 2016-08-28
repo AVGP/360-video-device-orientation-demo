@@ -5,7 +5,8 @@ Shows how to display 360° video using Three.js and the device orientation
 
 1. Run `npm install` in the project directory
 2. Run `npm run build` to build a minified version or `npm run dev` to build unminified and rebuild on changes
-3. Run a local static webserver and access the files via HTTP
+3. Add a 360° video file and name it `test.mp4`. Put it in the main directory.
+4. Run a local static webserver and access the files via HTTP
 
 # Making changes
 
